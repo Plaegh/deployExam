@@ -1,0 +1,15 @@
+button{
+   padding: 5px;
+   margin: 6px;
+   display: inline-block;
+   text-align: center; 
+}
+
+.align{
+    margin-left: 100px;
+}
+
+.detail{
+    font-size: 24px;
+}
+
